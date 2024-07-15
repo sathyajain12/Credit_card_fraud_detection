@@ -1,7 +1,3 @@
-Certainly! Here's a template for your GitHub README file for your Credit Fraud Detection project:
-
----
-
 # Credit Fraud Detection Project
 
 ## Overview
